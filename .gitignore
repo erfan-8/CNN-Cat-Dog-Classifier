@@ -1,0 +1,26 @@
+# Python & Anaconda Environments
+/venv/
+/envs/
+/tf-gpu/
+__pycache__/
+*.pyc
+
+# IDE / System Files
+.idea/
+.vscode/
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints
+
+# === !!بخش حیاتی!! ===
+# Dataset (!!! هرگز دیتاست را آپلود نکن !!!)
+dataset/
+/dataset/
+*.jpg
+*.jpeg
+*.png
+
+# Model Files (!!! هرگز مدل‌های ذخیره‌شده را آپلود نکن !!!)
+*.h5
+*.keras
